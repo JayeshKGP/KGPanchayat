@@ -1,0 +1,12 @@
+co.creativemind.device_information-jetified-annotation-experimental-1.1.0-0 /Users/jayeshdeshmukh/.gradle/caches/transforms-3/3795200b4ef80330da39fee63b1e3f99/transformed/jetified-annotation-experimental-1.1.0/res
+co.creativemind.device_information-jetified-window-java-1.0.0-beta04-1 /Users/jayeshdeshmukh/.gradle/caches/transforms-3/4f8a10da11d41b9ccabff01515190014/transformed/jetified-window-java-1.0.0-beta04/res
+co.creativemind.device_information-core-1.6.0-2 /Users/jayeshdeshmukh/.gradle/caches/transforms-3/ae42e6c01585f28a5adeac7499fca147/transformed/core-1.6.0/res
+co.creativemind.device_information-jetified-window-1.0.0-beta04-3 /Users/jayeshdeshmukh/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/res
+co.creativemind.device_information-main-4 /Users/jayeshdeshmukh/.pub-cache/hosted/pub.dev/device_information-0.0.4/android/src/main/res
+co.creativemind.device_information-release-5 /Users/jayeshdeshmukh/.pub-cache/hosted/pub.dev/device_information-0.0.4/android/src/release/res
+co.creativemind.device_information-pngs-6 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/device_information/generated/res/pngs/release
+co.creativemind.device_information-resValues-7 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/device_information/generated/res/resValues/release
+co.creativemind.device_information-rs-8 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/device_information/generated/res/rs/release
+co.creativemind.device_information-mergeReleaseResources-9 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/device_information/intermediates/incremental/release/mergeReleaseResources/merged.dir
+co.creativemind.device_information-mergeReleaseResources-10 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/device_information/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+co.creativemind.device_information-merged_res-11 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/device_information/intermediates/merged_res/release

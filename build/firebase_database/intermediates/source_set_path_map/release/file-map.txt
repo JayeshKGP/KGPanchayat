@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.database.firebase_database-jetified-play-services-base-18.1.0-0 /Users/jayeshdeshmukh/.gradle/caches/transforms-3/13beb97871bacead349918ab2efad008/transformed/jetified-play-services-base-18.1.0/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-annotation-experimental-1.1.0-1 /Users/jayeshdeshmukh/.gradle/caches/transforms-3/3795200b4ef80330da39fee63b1e3f99/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-window-java-1.0.0-beta04-2 /Users/jayeshdeshmukh/.gradle/caches/transforms-3/4f8a10da11d41b9ccabff01515190014/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-firebase-common-20.3.2-3 /Users/jayeshdeshmukh/.gradle/caches/transforms-3/7c67cb1107658111bdfb744d9b4eec58/transformed/jetified-firebase-common-20.3.2/res
+io.flutter.plugins.firebase.database.firebase_database-core-1.6.0-4 /Users/jayeshdeshmukh/.gradle/caches/transforms-3/ae42e6c01585f28a5adeac7499fca147/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-play-services-basement-18.1.0-5 /Users/jayeshdeshmukh/.gradle/caches/transforms-3/b98038a8bb5f558b05cc7fc73ca7ad87/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.database.firebase_database-jetified-window-1.0.0-beta04-6 /Users/jayeshdeshmukh/.gradle/caches/transforms-3/fa8aad42c825af1f34f93ab9a34c8ecb/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.database.firebase_database-main-7 /Users/jayeshdeshmukh/.pub-cache/hosted/pub.dev/firebase_database-10.2.3/android/src/main/res
+io.flutter.plugins.firebase.database.firebase_database-release-8 /Users/jayeshdeshmukh/.pub-cache/hosted/pub.dev/firebase_database-10.2.3/android/src/release/res
+io.flutter.plugins.firebase.database.firebase_database-packaged_res-9 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/firebase_core/intermediates/packaged_res/release
+io.flutter.plugins.firebase.database.firebase_database-pngs-10 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/firebase_database/generated/res/pngs/release
+io.flutter.plugins.firebase.database.firebase_database-resValues-11 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/firebase_database/generated/res/resValues/release
+io.flutter.plugins.firebase.database.firebase_database-rs-12 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/firebase_database/generated/res/rs/release
+io.flutter.plugins.firebase.database.firebase_database-mergeReleaseResources-13 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/firebase_database/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.database.firebase_database-mergeReleaseResources-14 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/firebase_database/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.database.firebase_database-merged_res-15 /Users/jayeshdeshmukh/StudioProjects/kgppanchayat/build/firebase_database/intermediates/merged_res/release

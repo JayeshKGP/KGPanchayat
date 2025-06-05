@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814029290671",
+    "project_id": "kgppanchayat-6356e",
+    "storage_bucket": "kgppanchayat-6356e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814029290671:android:51f055672ce562a0a2e85a",
+        "android_client_info": {
+          "package_name": "jd.kgp.kgppanchayat.kgppanchayat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814029290671-88qerho4c1ghle0851cul3ahfjct54c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgX-va5MGmiJfvYqxryjFM2Nn1ggvoNpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814029290671-88qerho4c1ghle0851cul3ahfjct54c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
